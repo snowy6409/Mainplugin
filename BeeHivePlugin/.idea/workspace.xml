@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="BeeHivePlugin:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bb6c182f-79e6-4db6-8c8d-558297b86eca" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UoaCmtZx5xwxiFNfda1bhm7QVx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/config.yml" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15722656" />
+    <property name="project.structure.side.proportion" value="0.3117444" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="bees" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb6c182f-79e6-4db6-8c8d-558297b86eca" name="Default Changelist" comment="" />
+      <created>1576025276113</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576025276113</updated>
+      <workItem from="1576025278796" duration="9029000" />
+      <workItem from="1576111721823" duration="10408000" />
+      <workItem from="1576467964553" duration="21000" />
+      <workItem from="1576625332639" duration="3647000" />
+      <workItem from="1576723826638" duration="53000" />
+      <workItem from="1576723953961" duration="6121000" />
+      <workItem from="1576769297180" duration="1827000" />
+      <workItem from="1576970316574" duration="1216000" />
+      <workItem from="1577212031971" duration="2259000" />
+      <workItem from="1577750226406" duration="4798000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="232" y="169" key="#Project_Structure" timestamp="1576172201445">
+      <screen x="0" y="0" width="1280" height="1024" />
+    </state>
+    <state x="232" y="169" key="#Project_Structure/0.0.1280.1024/1280.0.1920.1080@0.0.1280.1024" timestamp="1576172201445" />
+    <state x="765" y="248" key="#com.intellij.ide.util.MemberChooser" timestamp="1577753771920">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="765" y="248" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1577753771920" />
+    <state x="765" y="248" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1576032475635" />
+    <state x="690" y="322" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1576026037813">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="690" y="322" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1576026037813" />
+    <state x="690" y="286" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1576030475184">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="690" y="286" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1576030475184" />
+    <state x="690" y="293" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1576026052526">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="690" y="293" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1576026052526" />
+    <state x="740" y="293" key="FileChooserDialogImpl" timestamp="1576028311977">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="293" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1576028311977" />
+    <state x="240" y="107" key="SettingsEditor" timestamp="1576171897049">
+      <screen x="0" y="0" width="1280" height="1024" />
+    </state>
+    <state x="240" y="107" key="SettingsEditor/0.0.1280.1024/1280.0.1920.1080@0.0.1280.1024" timestamp="1576171897049" />
+    <state x="440" y="113" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1576029796761" />
+    <state x="342" y="234" key="new project wizard" timestamp="1576467980046">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="342" y="234" key="new project wizard/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1576467980046" />
+  </component>
+</project>

@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="BeeHivePlugin:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BeeHivePlugin_jar</output-path>
+    <root id="archive" name="BeeHivePlugin.jar">
+      <element id="module-output" name="BeeHivePlugin" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/shynixn/headdatabase/hdb-api/1.0/hdb-api-1.0.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Maven: org.spigotmc:spigot-api:1.15-R0.1-SNAPSHOT" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/config.yml" />
+    </root>
+  </artifact>
+</component>

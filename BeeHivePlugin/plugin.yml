@@ -1,0 +1,17 @@
+name: BeeFarms
+version: 0.1
+author: Ethan Baxter
+main: bees.BeePlugin
+api-version: 1.15
+depend:
+  - HeadDatabase
+commands:
+  Bee:
+    description: Test Bee command
+    usage: /Bee
+  Loc:
+    description: Get player location
+    usage: /Loc
+  Test:
+    description: Test Function
+    usage: /Test
